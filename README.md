@@ -12,6 +12,9 @@ The **Bus Booking System** is a web-based application designed to facilitate the
 - **HTML5:** For structuring the web pages.  
 - **CSS3:** For styling and creating a visually appealing layout.  
  
+##picture
+
+<img width="1440" alt="Screenshot 2024-11-27 at 8 21 59 AM" src="https://github.com/user-attachments/assets/0c3cffbc-4f49-42be-9c03-061d7d88ccc0">
 
 
 ## How to Use  
